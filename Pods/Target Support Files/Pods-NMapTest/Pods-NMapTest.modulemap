@@ -1,0 +1,6 @@
+framework module Pods_NMapTest {
+  umbrella header "Pods-NMapTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
